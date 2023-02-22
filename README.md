@@ -1,4 +1,4 @@
-# Análises automatizadas de vulnerabilidade-para-sites
+# Análises automatizadas de Vulnerabilidade para Sites
 
 O site foi criado utilizando a linguagem de programação Python e o framework Flask, que é um micro-framework para criação de aplicativos web. O site é baseado em um modelo de formulário que permite que o usuário insira dados referentes à vulnerabilidade de um determinado website. Esses dados são salvos em um banco de dados SQLite para que possam ser posteriormente acessados e exibidos na página.
 
