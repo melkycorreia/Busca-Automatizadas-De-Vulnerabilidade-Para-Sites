@@ -8,3 +8,6 @@ O site foi criado utilizando a linguagem de programação Python e o framework F
 
 Os benefícios desse tipo de aplicativo incluem a possibilidade de realizar Análises de vulnerabilidade de sites de forma mais rápida e automatizada, com uma interface de usuário amigável e fácil de usar. Além disso, a capacidade de armazenar dados em um banco de dados permite que os dados sejam facilmente acessados e analisados em momentos futuros, o que é especialmente útil para análises de segurança a longo prazo.
 
+# Autor:
+
+# Melky Correia
