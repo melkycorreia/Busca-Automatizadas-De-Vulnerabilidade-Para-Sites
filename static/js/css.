@@ -1,0 +1,10 @@
+Site-de-analise-de-vulnerabilidade/
+├── app.py
+├── templates/
+│   ├── index.html
+│   └── result.html
+├── static/
+│   ├── js/
+│   ├── css/
+│   └── img/
+└── database.py
